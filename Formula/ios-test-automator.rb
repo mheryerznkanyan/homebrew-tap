@@ -5,7 +5,7 @@ class IosTestAutomator < Formula
   desc "AI-powered iOS test automation tool with RAG-enhanced test generation"
   homepage "https://github.com/mheryerznkanyan/iOS-test-automator"
   url "https://github.com/mheryerznkanyan/iOS-test-automator/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "d763d07a6736dd52f068207eebca80789f3a1bbe69888f9f586e6237c10ae768"
   license "MIT"
   head "https://github.com/mheryerznkanyan/iOS-test-automator.git", branch: "main"
 
